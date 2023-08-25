@@ -6,6 +6,7 @@
 3. Primitive
 4. Type Conversion
 5. Type Casting
+6. Automatic Type Promotion
 
 ## Programs
 1. Sum
