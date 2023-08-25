@@ -1,6 +1,8 @@
 # Java Basics
 Welcome to my personal repository for Java basics practice codes! ✨ This repository contains a collection of coding exercises and projects that I've been working on to improve my coding skills and explore various programming concepts. Feel free to explore the code and use it as a reference or inspiration for your own learning journey.
 
+NOTE: All the folders in the repository are projects consisting of 'com.priyanshi' package.
+
 ## Contributing
 I'm open to contributions! If you'd like to suggest improvements, fix issues, or add your own practice codes, please follow these steps:
 1. Fork this repository to your own GitHub account.
