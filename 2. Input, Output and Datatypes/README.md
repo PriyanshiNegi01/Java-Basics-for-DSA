@@ -1,9 +1,11 @@
 # Input, Output and Datatypes
 
 ## Concepts
-Main
-Inputs
-Primitives
+1. Main
+2. Inputs
+3. Primitive
+4. Type Conversion
+5. Type Casting
 
 ## Programs
 1. Sum
