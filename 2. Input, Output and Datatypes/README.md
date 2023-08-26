@@ -7,6 +7,7 @@
 4. Type Conversion
 5. Type Casting
 6. Automatic Type Promotion
+7. A basic code on Greeting
 
 ## Programs
 1. Sum
