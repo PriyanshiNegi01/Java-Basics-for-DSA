@@ -12,4 +12,6 @@
 ## Programs
 1. Sum
 2. Temperature
-3. EvenOrdOdd
+3. EvenOrOdd
+4. Simple Interest
+5. Compound Interest
