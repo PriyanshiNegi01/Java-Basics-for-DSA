@@ -8,3 +8,4 @@
 3. Fibonacci Numbers
 4. Reverse of a Number (ReverseNum)
 5. Count the occurrences of a number (CountNum)
+6. Calculator
