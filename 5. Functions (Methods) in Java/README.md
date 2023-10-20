@@ -6,3 +6,4 @@
 5. Swapping Error
 6. Prime
 7. Shadowing
+8. Armstrong
