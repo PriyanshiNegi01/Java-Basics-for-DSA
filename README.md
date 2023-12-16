@@ -1,5 +1,12 @@
-# Java Basics
+# Java Basics for DSA
 Welcome to my personal repository for Java basics practice codes! ✨ This repository contains a collection of coding exercises and projects that I've been working on to improve my coding skills and explore various programming concepts. Feel free to explore the code and use it as a reference or inspiration for your own learning journey.
+
+The topics covered are:
+1. Introduction to Programming and Java
+2. Input, Output and Datatypes
+3. Conditionals and Loops
+4. Switch
+5. Functions (Methods) in Java
 
 NOTE: All the folders in the repository are projects consisting of 'com.priyanshi' package.
 
