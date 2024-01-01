@@ -10,6 +10,12 @@ The topics covered are:
 
 NOTE: All the folders in the repository are projects consisting of 'com.priyanshi' package.
 
+## Sequence for DSA in Java
+Java-Basics (1-5)
+DSA-Arrays
+Java-Basics (Strings)
+Java-OOPS
+
 ## Contributing
 I'm open to contributions! If you'd like to suggest improvements, fix issues, or add your own practice codes, please follow these steps:
 1. Fork this repository to your own GitHub account.
