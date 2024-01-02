@@ -7,6 +7,8 @@ The topics covered are:
 3. Conditionals and Loops
 4. Switch
 5. Functions (Methods) in Java
+-   Strings
+-   Patterns
 
 NOTE: All the folders in the repository are projects consisting of 'com.priyanshi' package.
 
