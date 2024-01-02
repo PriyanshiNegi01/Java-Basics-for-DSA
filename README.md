@@ -14,7 +14,7 @@ NOTE: All the folders in the repository are projects consisting of 'com.priyansh
 -   Java-Basics (1-5)
 -   DSA-Arrays
 -   Java-Basics (Strings)
--   Patterns
+-   Java-Basics (Patterns)
 -   Java-OOPS
 
 ## Contributing
