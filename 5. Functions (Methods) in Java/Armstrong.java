@@ -3,7 +3,8 @@ package com.priyanshi;
 import java.util.Scanner;
 
 public class Armstrong {
-
+    // ARMSTRONG NUMBER: a number that equals the sum of its digits, each raised to a power.
+    // For example: 153, it's an Armstrong number because 1^3 + 5^3 + 3^3 = 153
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // Check whether a single number is Armstrong or not
