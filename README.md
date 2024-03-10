@@ -19,6 +19,7 @@ NOTE: All the folders in the repository are projects in 'com.priyanshi' package 
 4. Java - Basics (Patterns)
 5. Java - Recursion (Introduction to Recursion, Time & Space Complexity, Maths for DSA, Recursion Questions)
 6. Java - OOPS
+7. Linked List
 
 ## Contributing
 I'm open to contributions! If you'd like to suggest improvements, fix issues, or add your own practice codes, please follow these steps:
