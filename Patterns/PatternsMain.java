@@ -1,4 +1,4 @@
-package com.priyanshi;
+package com.priyanshi.Patterns;
 
 public class Patterns1 {
 
