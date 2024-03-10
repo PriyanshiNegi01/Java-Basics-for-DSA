@@ -10,7 +10,7 @@ The topics covered are:
 -   Strings
 -   Patterns
 
-NOTE: All the folders in the repository are projects consisting of 'com.priyanshi' package.
+NOTE: All the folders in the repository are projects in 'com.priyanshi' package of src directory.
 
 ## Sequence for DSA in Java
 1. Java - Basics (1-5)
