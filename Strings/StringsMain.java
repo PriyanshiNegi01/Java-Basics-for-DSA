@@ -1,4 +1,4 @@
-package com.priyanshi;
+package com.priyanshi.Strings;
 
 public class StringsMain {
 
